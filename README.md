@@ -25,3 +25,10 @@ This book covers the following topics:
 This repository is for educational purposes only. If you do not own the rights to this book, ensure you comply with copyright laws before sharing or distributing its content.
 
 ## 📂 Repository Structure
+
+
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Khalidhaimur/The-Web-Application-Hacker-s-Handbook.git
+
